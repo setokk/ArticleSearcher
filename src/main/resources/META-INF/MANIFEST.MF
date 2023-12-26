@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: edu.setokk.as.Main
+Class-Path: true
+Multi-Release: true
